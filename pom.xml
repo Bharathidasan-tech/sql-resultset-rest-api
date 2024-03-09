@@ -3,8 +3,8 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>  
   	  <groupId>com.sql.api</groupId>
-	  <artifactId>sql-rest-api</artifactId>
-	  <name>sql-rest-api</name>
+	  <artifactId>sql-resultset-rest-api</artifactId>
+	  <name>sql-resultset-rest-api</name>
 	  
 	  <parent>
 	    <groupId>org.springframework.boot</groupId>
@@ -49,7 +49,7 @@
 
 
 	<build>
-		<finalName>sql-rest-api</finalName>
+		<finalName>resultset-rest-api</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
